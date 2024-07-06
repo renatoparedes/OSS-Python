@@ -6,7 +6,7 @@ This page contains the Google Colab tutorials and practical guides that we will 
 
 ## Course materials
 
-Introductory [slides](https://github.com/renatoparedes/OSS-Python/Introduction_to_Python_for_Psychological_Research.pdf).
+Introductory [slides](https://raw.githubusercontent.com/renatoparedes/OSS-Python/main/Introduction_to_Python_for_Psychological_Research.pdf).
 
 |   | Lecture | Coursework | Solutions |
 | - | --- | ---- | ---- |

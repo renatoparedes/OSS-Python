@@ -6,6 +6,8 @@ This page contains the Google Colab tutorials and practical guides that we will 
 
 ## Course materials
 
+Introductory [slides](https://github.com/renatoparedes/OSS-Python/Introduction_to_Python_for_Psychological_Research.pdf).
+
 |   | Lecture | Coursework | Solutions |
 | - | --- | ---- | ---- |
 | Programming Fundamentals I| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/OSS-Python/blob/master/Programming_Fundamentals/Programming_Fundamentals_I.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/OSS-Python/blob/master/Programming_Fundamentals/Coursework_Programming_Fundamentals_I.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/OSS-Python/blob/master/Programming_Fundamentals/Coursework_Programming_Fundamentals_I.ipynb)|
